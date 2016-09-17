@@ -1,0 +1,7 @@
+{
+    "name":"Godwin",
+    "description":"Learning",
+    "require": {
+        "phpmailer/phpmailer":"dev-master"
+    }
+}
