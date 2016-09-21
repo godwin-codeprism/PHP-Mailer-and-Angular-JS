@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Learning to send mails with php",
   "main": "main.js",
+  "repository": {
+    "url": "https://github.com/godwinvc/PHP-Mailer-and-Angular-JS",
+    "type": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
